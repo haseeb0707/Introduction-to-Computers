@@ -7,6 +7,10 @@ The history of computers can be divided into different generations:
 - **Fourth Generation (1970s–present):** Introduced microprocessors, leading to personal computers.
 - **Fifth Generation (present and beyond):** Focused on Artificial Intelligence and advanced computing technologies.
 
-
+## Student Information
+- **Name:** [Haseeb Ur Rehman]
+- **Roll Number:** [26K-3144]
+- **Course:** Software Engineering, FAST NUCES Karachi
+- **Task:** Git & GitHub Practical Task
 
 
